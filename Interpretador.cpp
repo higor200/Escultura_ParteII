@@ -26,7 +26,7 @@ Interpretador::Interpretador(){
     stringstream ss;
     string s, token;
 
-    fin.open("TESTES.txt");
+    fin.open("FIGURA.txt");
 
     if(!fin.is_open()){
         cout << "NAO FOI POSSIVEL ABRIR O ARQUIVO " << filename << endl;

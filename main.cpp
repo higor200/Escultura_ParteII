@@ -21,7 +21,7 @@ int main()
 
     vector <FiguraGeometrica*> figs;
 
-    figs = parser.parse ("TESTES.txt");
+    figs = parser.parse ("FIGURA.txt");
 
     s_ = new sculptor (parser.getDimx(), parser.getDimy(), parser.getDimz());
 
@@ -31,7 +31,7 @@ int main()
 
     s_ -> limpaVoxels();
 
-    s_ -> writeOFF ((char*)"TESTES_FUNCIONALIDADES.off");
+    s_ -> writeOFF ((char*)"FIGURAGEOMETRICA.off");
 
     for (size_t i=0; i < figs.size(); i++){
         delete figs[i];
