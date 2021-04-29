@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1619662682 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutbox.cpp
+	<iostream>
+	"CutBox.h"
+	"FiguraGeometrica.h"
+
+1619664014 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutbox.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658954 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\figurageometrica.h
+	<iostream>
+	"sculptor.h"
+
+1619661569 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\sculptor.h
+	"string"
+
+1619661866 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutellipsoid.cpp
+	<iostream>
+	"CutEllipsoid.h"
+	"FiguraGeometrica.h"
+
+1619657939 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutellipsoid.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658029 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutsphere.cpp
+	"CutSphere.h"
+	"FiguraGeometrica.h"
+
+1619657987 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutsphere.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658107 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutvoxel.cpp
+	<iostream>
+	"CutVoxel.h"
+	"FiguraGeometrica.h"
+
+1619658079 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\cutvoxel.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619723825 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\interpretador.cpp
+	"Interpretador.h"
+	"FiguraGeometrica.h"
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"PutBox.h"
+	"PutVoxel.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+	"CutBox.h"
+	"PutBox.h"
+	"CutVoxel.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	<iostream>
+
+1619658210 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\interpretador.h
+	<vector>
+	"FiguraGeometrica.h"
+	"sculptor.h"
+	<string>
+	<stdlib.h>
+
+1619658306 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putbox.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658563 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putvoxel.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658373 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putellipsoid.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658464 c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putsphere.h
+	"FiguraGeometrica.h"
+	"sculptor.h"
+
+1619658196 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\figurageometrica.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+
+1619722769 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\main.cpp
+	<iostream>
+	"CutBox.h"
+	"CutEllipsoid.h"
+	"CutSphere.h"
+	"CutVoxel.h"
+	"FiguraGeometrica.h"
+	"PutBox.h"
+	"PutEllipsoid.h"
+	"PutSphere.h"
+	"PutVoxel.h"
+	"sculptor.h"
+	"Interpretador.h"
+
+1619658338 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putbox.cpp
+	"PutBox.h"
+	"FiguraGeometrica.h"
+
+1619658407 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putellipsoid.cpp
+	"PutEllipsoid.h"
+	"FiguraGeometrica.h"
+
+1619658497 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putsphere.cpp
+	<iostream>
+	"PutSphere.h"
+	"FiguraGeometrica.h"
+
+1619658588 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\putvoxel.cpp
+	"PutVoxel.h"
+
+1619661531 source:c:\users\tiago\desktop\estudo\ufrn\2020.2\programação avançada\poo\esc_parteii\sculptor.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<vector>
+	<queue>
+	"sculptor.h"
+
